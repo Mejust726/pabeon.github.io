@@ -5,4 +5,4 @@ theme: just-the-docs
 
 nav:
   - Home: index.md
-  - 의학: docs/의학.md
+  - 의학: docs/medicine.md
