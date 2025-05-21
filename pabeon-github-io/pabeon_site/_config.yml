@@ -1,0 +1,8 @@
+title: 파베온 Pabeon
+description: 의학과 기초과학의 지식 집합소
+theme: just-the-docs
+plugins: []
+
+nav:
+  - Home: index.md
+  - 의학: docs/medicine.md
